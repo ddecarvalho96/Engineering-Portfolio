@@ -1,2 +1,9 @@
-# Engineering-Portfolio
-Portfolio of projects showcasing control logic, embedded systems, Arduino/FPGA, Python programming, and quantum computing experiments.
+# Engineering Portfolio
+
+This repository showcases projects demonstrating skills in:
+- Control systems and sequencing algorithms
+- Embedded systems (Arduino/FPGAs)
+- Python automation and data analysis
+- Exploratory work in quantum computing
+
+Each project folder includes code, documentation, and instructions.
